@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+Weather_Unity/[Ll]ibrary/
+Weather_Unity/[Tt]emp/
+Weather_Unity/[Oo]bj/
+Weather_Unity/[Bb]uild/
+Weather_Unity/[Bb]uilds/
+Weather_Unity/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
